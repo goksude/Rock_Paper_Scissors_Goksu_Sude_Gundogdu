@@ -50,5 +50,4 @@ def tas_kagit_makas_Goksu_Sude_Gundogdu():
             break
 
 
-# Oyunu başlatmak için fonksiyonu çağırabilirsiniz
 tas_kagit_makas_Goksu_Sude_Gundogdu()
