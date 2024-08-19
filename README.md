@@ -1,7 +1,4 @@
-# Rock_Paper_Scissors_Goksu_Sude_Gundogdu
 # Taş, Kağıt, Makas Oyunu
-
-Bu proje, klasik "Taş, Kağıt, Makas" oyununu Python programlama dili ile hayata geçiren bir uygulamadır. Bu oyun, Python öğrenme sürecinde döngüler, koşullu ifadeler, kullanıcı girişi gibi temel kavramları pekiştirmeyi amaçlamaktadır.
 
 ## 🎮 Oyun Kuralları
 
